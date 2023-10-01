@@ -1,1 +1,1 @@
-# counte-project
+# counter-project
